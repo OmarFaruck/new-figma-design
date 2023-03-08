@@ -1,0 +1,619 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a.nav-link:hover {
+    color: red !important;
+}
+a.nav-link {
+    color: white !important;
+    text-transform:capitalize;
+}
+button.btn.nvbr {
+    padding: 9px 25px;
+    background-color: white;
+}
+/* *********************navber end*********************** */
+section.Postedstart {
+    background-image: url('../images/main.png');
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: center; 
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.Posted p {
+    margin-left: 25px;
+    color: white;
+    font-size: 30px;
+    font-family: ui-sans-serif;
+}
+.Posted h1 {
+    color: white;
+    font-family: ui-sans-serif;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.Posted h6 {
+    margin-left: 22px;
+    margin-top: 20px;
+    color: white;
+    font-family: math;
+}
+.Posted span {
+    color: #AE9141;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Posted h5 {
+    color: white;
+    font-family: ui-sans-serif;
+    /* margin-top: 20px; */
+    /* position: fixed; */
+}
+.Posted button {
+    margin-left: 25px;
+    padding: 15px 30px;
+    border: none; 
+    background-color: #FFD050;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+/* *********************Posted on  end*********************** */
+section.Postedstart{ 
+    margin-bottom: 30px;
+}
+.futuredpost h2 {
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-bottom: 24px;  
+}
+.futuredpost h6 {
+    font-weight: 600;
+    margin-top: 16px;
+    font-family: ui-serif;
+    color: #4C4C4C;
+}
+.futuredpost p {
+    font-family: serif;
+    color: #232536;
+    font-size: 25px;
+    font-weight: 600;
+}
+.futuredpost h6.Duis {
+    color: #6D6E76;
+    font-family: ui-sans-serif;
+    font-weight: 700;
+}
+.futuredpost button {
+    margin-bottom: 20px;
+    padding: 15px 30px;
+    border: none;
+    background-color: #FFD050;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.Featured h5 {
+    color: #4C4C4C;
+    font-family: ui-serif;
+    font-size: 16px; 
+}
+.Featured h4 { 
+    font-family: ui-serif;
+}
+.figma, h5, h4 {
+    padding: 2px 25px;
+}
+  /* ********************Featured Post  end*********************** */
+ 
+section.about {
+    margin-bottom: 25px;
+    background-color: #F4F0F8;
+    padding: 60px;
+}
+ 
+.abouts h4 {  
+    color: #232536;
+    font-family: sans-serif;
+}
+.abouts h2 { 
+    margin-left: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-right: 48px;
+    margin-top: 30px;
+}
+.abouts p {
+    padding-left: 20px;
+    color: #6D6E76;
+    font-family: ui-sans-serif;
+    margin-top: 25px;
+}
+.abouts a {
+    margin-left: 19px;
+    font-size: 20px;
+    color: #592EA9 !important;
+    text-decoration: none;
+    font-family: serif;
+}
+/* ********************ABOUT US end*********************** */
+.Catagory h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: ui-sans-serif;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #232536;
+}
+.section-1 h3 {
+    margin-top: 20px;
+} 
+.section-2 h3 {
+    margin-top: 20px;
+} 
+.section-3 h3 {
+    margin-top: 20px;
+} 
+.section-4 h3 {
+    margin-top: 20px;
+} 
+.Catagory .section-1:hover {
+background-color: #FFD050;
+}
+.Catagory .section-2:hover {
+background-color: #FFD050;
+}
+.Catagory .section-3:hover {
+background-color: #FFD050;
+}
+.Catagory .section-4:hover {
+background-color: #FFD050;
+}
+.Catagory .section-1 {
+    margin-bottom: 15px;
+    padding: 20px;
+    border: 1px solid #6D6E76;
+    Opacity: 70%;
+    background-color: #6D6E76 solid 1px;
+}
+.Catagory .section-1 img.img-fluid.d-block.icon1 {
+    background-color: #e7e5e1;
+    border-radius: 8px;
+}
+.Catagory .section-2 {
+    margin-bottom: 15px;
+    padding: 22px;
+    border: 1px solid #6D6E76;
+    Opacity: 70%;
+    background-color: #6D6E76 solid 1px;
+}
+.Catagory .section-2 img.img-fluid.d-block.icon2 {
+    background-color: #e7e5e1;
+    padding: 11px;
+    border-radius: 8px;
+}
+.Catagory .section-3 {
+    margin-bottom: 15px;
+    padding: 20px;
+    border: 1px solid #6D6E76;
+    Opacity: 70%;
+    background-color: #6D6E76 solid 1px;
+}
+img.img-fluid.d-block.icon3 {
+    background-color: #e7e5e1; 
+    border-radius: 8px;
+}
+ 
+.Catagory .section-4 {
+    margin-bottom: 15px;
+    padding: 20px;
+    border: 1px solid #6D6E76;
+    Opacity: 70%;
+    background-color: #6D6E76 solid 1px;
+}
+img.img-fluid.d-block.icon4 {
+    background-color: #e7e5e1; 
+    border-radius: 8px;
+    padding: 11px;
+}
+/* ********************Catagory end***********************  */
+.list h2 {
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 600;
+    font-family: ui-sans-serif;
+}
+
+/* ********************List end***********************  */
+.testimonial { 
+    background-color: #FBF6EA;
+    padding: 20px;
+}
+.testimonial h4 {
+    margin-bottom: 10px;
+    font-family: semi-bold;
+    font-size: 23px;
+}
+.testimonial h5 { 
+    font-family: ui-serif;
+}
+.testimonial p {
+    margin-left: 25px;
+    font-family: regular;
+    font-size: 20px;
+}
+.testimonial h6 {
+    color: black;
+    padding-right: 149px;
+    margin-left: 22px;
+    font-family: ui-sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+}
+/* ********************TESTIMONIALs end*********************** */
+ section.Joinour {
+    padding-bottom: 30px;
+}
+ section.Joinour h1 { 
+    color: #232536;
+    font-family: ui-sans-serif;
+    margin-top: 32px;
+    font-weight: 600;
+}
+ section.Joinour p {
+    color: #6D6E76;
+    font-family: system-ui;
+    font-size: 17px;
+    margin-top: 25px;
+}
+ section.Joinour button {
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 700;
+    border: none;
+    padding: 15px 29px;
+    background-color: #FFD050;
+}
+/* ********************Join our team end*********************** */
+section.footer {
+    background-color: #232536;
+    padding-top: 40px;
+}
+ 
+.subfooter a {
+    text-decoration: none;
+    padding: 20px;
+    font-family: system-ui;
+    color: white;
+}
+.footers {
+    background-color: #2E3040;
+    margin-top: 40px;
+}
+.footers h2 {
+    padding: 50px;
+    color: white;
+    font-family: ui-sans-serif;
+}
+input#floatingInputGrid {
+    background-color: #2E3040; 
+    margin-top: 14px;
+}
+label {
+    color: white;
+}
+.footers button {
+    border-radius: 7px;
+    border: 1px solid;
+    padding: 15px 27px;
+    background-color: #FFD050; 
+    color: white;
+}
+.last h5,h6 {
+    color: white;
+    font-family: sans-serif;
+}
+.last h6 {
+    margin-left: 25px;
+}
+.social_icon {
+    text-align: end;
+}
+/* ********************footer end*********************** */
+/* ********************blog start*********************** */
+section.blog {
+    background-color: #F4F0F8;
+    padding-top: 40px;
+    padding-bottom: 40px; 
+}
+.blogtext button {
+    margin-left: 24px;
+    padding: 15px 30px;
+    border: none;
+    background-color: #FFD050;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.blogtext h5 {
+    font-weight: 700;
+    color: #232536;
+    font-family: ui-sans-serif;
+}
+.blogtext h1 { 
+    margin-left: 24px; 
+    color: #232536;
+    font-family: ui-sans-serif;
+    font-weight: 700;
+}
+.blogtext h4 {
+    font-family: ui-sans-serif;
+    font-weight: 600;
+}
+.blogtext p {
+    margin-left: 24px;
+    font-family: regilar;
+    font-weight: 600;
+}
+ 
+
+/* ********************blog end*********************** */
+
+.Allposts h5 {
+    margin-top: 47px;
+    font-weight: 700;
+    font-family: serif;
+    color: #592EA9;
+}
+.Allposts h2 {
+    font-family: ui-sans-serif;
+    font-weight: 700;
+    color: #232536;
+}
+.Allposts p {
+    font-family: system-ui;
+    font-weight: 600;
+    color: #6D6E76;
+}
+/* ********************Allposts end*********************** */
+.guide h2 {
+    font-family: ui-sans-serif;
+    text-align: center;
+}
+
+.guides h1 {
+    text-align: center;
+    color: #592EA9;
+    font-family: ui-sans-serif; 
+}
+.guides h6 {
+    text-align: center;
+    color: #6D6E76;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.guides h2 { 
+    text-align: center;
+    margin-bottom: 25px;
+    color: #232536;
+    font-family: system-ui;
+}
+ 
+.guides p {
+    text-align: center;
+}
+h4 {
+    font-family: ui-sans-serif;
+    font-weight: 700;
+}
+
+/* *********************guide to choosing end*********************** */
+section.abouts { 
+    padding: 20px;
+    box-shadow: beige;
+}
+/* .about h2 {
+    
+}
+.about h4 {
+   
+} */
+.about p {
+    color: #4C4C4C;
+    margin-top: 20px;
+    font-family: ui-serif;
+    text-align: center;
+    font-size: 17px;
+}
+/* *********************about end*********************** */
+.Ourmision h1 {
+    color: #232536;
+    font-family: ui-serif;
+    font-weight: 600;
+}
+.Ourmision h3 {
+    color: #232536;
+    font-family: ui-sans-serif;
+    font-weight: 600;
+}
+.Ourmision p {
+    color: #6D6E76;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+/* *********************Our mision end*********************** */
+.Ourteam h2 {
+    margin-top: 40px;
+    color: #232536;
+    font-family: ui-sans-serif;
+    font-weight: 600;
+    margin-left: 24px;
+}
+.Ourteam h4 {
+    color: #232536;
+    font-family: fangsong; 
+    margin-top: 15px;
+}
+.Ourteam p {
+    margin-left: 25px;
+    color: #232536;
+    font-family: serif;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.Ourteams h2 {
+    margin-top: 40px;
+    color: #232536;
+    font-family: ui-sans-serif;
+    font-weight: 600;
+    margin-left: 24px;
+}
+.Ourteams h4 {
+    color: #232536;
+    font-family: fangsong; 
+    margin-top: 15px;
+}
+.Ourteams p {
+    margin-left: 25px;
+    color: #232536;
+    font-family: serif;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+/* *********************Our team of creatives end*********************** */
+.business {
+    background-color: #F4F0F8;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.business h1 {
+    font-family: ui-sans-serif;
+}
+.catagory h5 {
+    margin-top: 17px;
+    font-weight: 700;
+    font-family: serif;
+    color: #592EA9;
+}
+.catagory h2 {
+    font-family: ui-sans-serif;
+    font-weight: 700;
+    color: #232536;
+}
+.catagory p {
+    font-family: system-ui;
+    font-weight: 600;
+    color: #6D6E76;
+}
+.btn:hover{
+background-color: #FFD050;
+}
+ 
+.btn {
+    border: 1px solid #C1C1C3; 
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 15px;
+} 
+button {
+    padding: 14px;
+    border: 1px solid #C1C1C3;
+    margin-top: 15px;
+    border-radius: 25   px;
+    margin-left: 10px;
+    -webkit-border-radius: 25   px;
+    -moz-border-radius: 25   px;
+    -ms-border-radius: 25   px;
+    -o-border-radius: 25   px;
+}
+/* *********************Business end*********************** */
+section.myself {
+    background-color: #F4F0F8;
+    padding: 50px;
+    margin-bottom: 20px;
+
+}
+.myselfpage h1 {
+    color: #232536;
+    font-family: ui-sans-serif;
+    font-weight: 700;
+}
+.myselfpage p {
+    color: #6D6E76;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+/* *********************myself end*********************** */
+ .tag h3 {
+    color: #232536;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+ 
+.tag p {
+    color: #232536;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top: 27px;
+}
+/* *********************tag end*********************** */
+.container.myself {
+    background-color: #592EA9;
+}
+.container.myself h3 {
+    color: #FFFFFF;
+    padding-top: 20px;
+    margin-left: 20px;
+    font-family: system-ui; 
+}
+.container.myself p {
+    color: #FFFFFF;
+    padding-top: 20px;
+    margin-left: 20px;
+    font-family: system-ui; 
+}
+ 
+/* *********************myself end*********************** */
+.divider-text {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divider-text span {
+    padding: 7px;
+    font-size: 12px;
+    position: relative;   
+    z-index: 2;
+}
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+}
+.btn-twitter {
+    background-color: #42AEEC;
+    color: #fff;
+}
+/* *********************from end*********************** */

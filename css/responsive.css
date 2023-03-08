@@ -1,0 +1,468 @@
+@media (min-width: 320px) and (max-width: 425px) {
+
+    .Posted p {
+        font-size: 21px !important; 
+        text-align: center; 
+    }
+
+    .Posted h1 {
+        text-align: center;  
+        font-size: 22px !important;
+    }
+
+    .Posted h6 {
+        font-size: 21px !important;  
+    }
+
+    .Posted h5 {
+        text-align: center;
+        font-size: 19px !important; 
+    }
+
+    .Posted button {
+        margin-left: 58px; 
+    }
+
+    /* *********************Posted on  end***********************  */
+    
+    .Featured h2 {
+        text-align: center !important; 
+    }
+    .Featured h6 {
+        font-size: 13px !important;
+    }
+    .Featured p {
+        margin-top: 20px;
+        text-align: center; 
+        font-size: 16px !important;
+    }
+    .Featured button {
+        margin-left: 65px; 
+    }
+    .Featured h2 {
+        margin-top: 15px;
+        font-size: 21px !important;  
+    }
+
+    .figma h5 {
+        padding: 0px !important;
+        margin-top: 15px; 
+        font-size: 18px !important;
+    }
+    .figma h4 { 
+        font-size: 22px !important;
+        margin-top: 20px;
+        text-align: center;
+        padding: 0px !important;
+    } 
+    .about h4 {
+        padding: 0px !important;
+        font-size: 12px !important;
+        text-align: center;
+        margin-top: 20px !important;
+    }
+    .about h2 {
+        padding: 0px !important; 
+        font-size: 18px !important; 
+        margin-top: 30px;
+    }
+    .about p {
+        font-size: 12px !important;   
+    }
+    .about a {
+        margin-left: 40px; 
+    }
+    .testimonial h5 {
+        font-size: 13px !important;
+    }
+    .testimonial p {
+        font-size: 21px !important;  
+        font-size: 17px !important;
+    }
+    .testimonial h6 {
+        padding-right: 0px !important;
+        margin-left: 0px !important; 
+        font-size: 14px !important;
+    }
+ 
+    section.Joinour h1 {
+        font-size: 23px !important; 
+         font-size: 21px !important; 
+    }
+    section.Joinour p { 
+        font-size: 12px !important; 
+    }
+    .container.subfooter a {
+        padding: 0px !important; 
+    }
+   .testimonial h4 {
+        text-align: center !important; 
+    }
+   .testimonial h2 {
+        font-size: 21px !important; 
+        margin-top: 20px;
+    }
+    .container.footers h2 {
+        padding: 23px !important; 
+        font-size: 21px !important; 
+        font-size: 14px !important;
+    }
+    .container.last.pt-4 h6 {
+        text-align: center !important; 
+    }
+    .container.last.pt-4 h5 {
+        font-size: 16px !important;
+        font-size: 21px !important;  
+    }
+    section.about a {
+        text-align: center !important;
+    }
+    .testimonial h2 {
+        font-size: 21px !important; 
+    }
+    .testimonial p {
+        font-size: 20px !important;
+        text-align: center;
+    }
+
+    /* ***********************blogpost********************** */
+    .container-fluid.guide h1,h6  {
+        text-align: center !important; 
+        width: 100% !important;
+    }
+    .blogtext h5 {
+        text-align: center; 
+    }
+    .blogtext h1 {
+        margin-top: 15px;
+        text-align: center; 
+        font-size: 25px !important;
+    }
+    .blogtext h4 {
+        font-size: 20px !important;
+        text-align: center; 
+        margin-top: 20px;
+    }
+    .blogtext p { 
+        margin-left: 0px !important; 
+        margin-top: 16px;
+        text-align: center;
+    }
+    .container-fluid.guide h2 {
+        font-size: 18px !important; 
+    }
+    h4 {
+        font-size: 21px !important;  
+    }
+   .about h2 {
+        font-size: 30px !important; 
+    }
+    .conainer-fluid.mision h1, p, h3 {
+        font-size: 13px !important;
+        padding: 0px !important; 
+    }
+    .Ourteam h2 {
+        font-size: 21px !important;  
+    }
+ 
+    .catagory h1 {
+        text-align: center !important;
+    }
+  
+    .social_icon {
+        text-align: center !important;
+    }
+    section.Allpost h1 {
+        text-align: center;
+    }
+    .Allposts h5 {
+        text-align: center; 
+    }
+    .Allposts h2 {
+        text-align: center; 
+    }
+    .social_icon { 
+        text-align: center !important;
+    }
+    .guides h1 {
+        font-size: 21px !important; 
+    }
+    .guides h6 {
+        font-size: 12px !important; 
+    }
+    .guides h2 {
+        font-size: 11px !important; 
+    }
+    .guides p {
+        font-size: 16px !important; 
+    }
+    section.readstart h4 {
+        text-align: center;
+    }
+    .Ourmision h1 {
+        margin-bottom: 17px; 
+        text-align: center; 
+    }
+    .Ourmision h3 {
+        text-align: center; 
+        font-size: 16px !important;
+    }
+    .Ourmision p {
+        margin-top: 18px;
+        text-align: center; 
+    }
+    .Ourteam h2 { 
+        text-align: center;
+    }
+    .Ourteam h4 {
+        padding: 0px !important; 
+        margin-top: 25px !important;
+        text-align: center;
+        font-size: 13px !important;
+    }
+    .Ourteams h2 { 
+        text-align: center;
+    }
+    .Ourteams h4 {
+        padding: 0px !important; 
+        margin-top: 25px !important;
+        text-align: center;
+        font-size: 13px !important;
+    }
+    .catagory h5 {
+        text-align: center; 
+    }
+    .catagory h2 {
+        text-align: center; 
+        font-size: 16px !important;
+    }
+    .catagory p {
+        text-align: center; 
+    }
+    .tag h3 {
+        font-size: 26px !important; 
+    }
+    .tag h1 {
+        font-size: 21px !important;
+    }
+
+    .myselfs h3 {
+        text-align: center;
+        font-size: 18px !important;
+    }
+    .myselfs p {
+        text-align: center;
+        font-size: 12px !important;
+        margin-top: 20px;
+    }
+    .myselfpage h1 { 
+        text-align: center; 
+        font-size: 13px !important; 
+    }
+    .myselfpage p {
+        text-align: center; 
+    }
+    .contaict_icon {
+        text-align: center;
+    }
+    .tag p {
+        font-size: 12px !important;
+    }
+}
+@media (min-width: 425px) and (max-width: 768px){
+    .Posted p {
+        font-size: 21px !important;
+        text-align: center;
+    }
+    .Posted h1 {
+        font-size: 21px !important;
+        text-align: center;
+    }
+    .Posted h5,h6 {
+        font-size: 21px !important;
+        text-align: center;
+    }
+    .Posted h6 {
+        font-size: 21px !important;
+        text-align: center;
+    }
+    .futuredpost h6.Duis {
+        font-size: 15px !important;
+        color: #6D6E76;
+        font-family: ui-sans-serif;
+        font-weight: 700;
+    }
+    .about h2 {
+        margin-left: 0px !important;
+        text-align: center;
+        padding-right: 0px !important;
+    }
+    .Posted button {
+        display: none;
+    }
+    section.Featured h2 {
+        text-align: center;
+    }
+    .figma h5 {
+        padding: 0px !important; 
+        font-size: 18px !important;
+    }
+    .testimonial h4,h5 {
+        text-align: center !important; 
+    } 
+    .futuredpost p {
+        font-size: 16px !important;
+        text-align: center;
+    }
+    .figma h4 {
+        text-align: center;
+        padding: 0px !important;
+        font-size: 17px !important;
+    }
+    .testimonial h5 {
+        font-size: 13px !important; 
+    }
+    .testimonial p { 
+        font-size: 17px !important;
+        text-align: center;
+    }
+    .container.pt-5 {
+        padding-top: 20px !important;
+    }
+    .subfooter a { 
+        padding: 14px !important; 
+    }
+    .testimonial h2 {
+        font-size: 21px !important;
+        text-align: center;
+    }
+    .testimonials p {
+        font-size: 17px !important;  
+    } 
+    .testimonial h6 {
+        padding-right: 0px !important;  
+        font-size: 13px !important; 
+    } 
+    .guides h1 { 
+        font-size: 21px !important; 
+    }
+    .guides h6 { 
+        font-size: 21px !important;  
+    }
+    .guides h6 { 
+        font-size: 11px !important;  
+    }
+    .Ourteam p {
+        display: none; 
+    }
+    .catagory p {
+        display: none; 
+    }
+    .btn,h3 {
+        display: none !important; 
+    }
+    section.Allpost h1 {
+        text-align: center;
+    }
+  .Allposts p {
+        /* margin-top: 47px !important; */
+        display: none; 
+    }
+    .Allposts h2 {
+        text-align: center; 
+        font-size: 22px !important;
+    }
+    .Allposts h5 {
+        text-align: center; 
+        
+    }
+    .blogtext h1 {
+        text-align: center; 
+        font-size: 19px !important;
+    }
+    .social_icon { 
+        text-align: center !important;
+    }
+    .about h4 {
+        padding: 0px !important;
+        font-size: 12px !important;
+        text-align: center;
+        margin-top: 20px !important;
+    }
+    .about p {
+        padding: 0px !important;
+        font-size: 14px !important;
+        text-align: center;
+        margin-top: 20px !important;
+    }
+    .Ourteam h4 {
+        font-size: 18px !important; 
+    }
+    .Ourteams p {
+        display: none; 
+    }
+    .Ourteams h4 {
+        font-size: 18px !important;
+    }
+    .Ourteam h2,h4 {
+        text-align: center; 
+    }
+    .Ourteams h2,h4 {
+        text-align: center; 
+    }
+    .Ourmision h1,p {
+        text-align: center; 
+    }
+    .tag p {
+        font-size: 20px !important;
+    }
+
+    .myselfpage h1 { 
+        margin-top: 50px;
+        text-align: center; 
+        font-size: 13px !important; 
+    }
+    .myselfpage p {
+        text-align: center;     
+        font-size: 13px; 
+    }
+    .contaict_icon {
+        text-align: center;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    .guides h1 {
+        width: 248px !important;
+        font-size: 21px !important; 
+    }
+    .guides h6 {
+        width: 230px;
+        font-size: 21px !important; 
+    }
+    .container-fluid.Ourteam h2 {
+        margin-top: 0px !important; 
+    }
+    .guide h2 {
+        text-align: center; 
+    }
+    .guides p {
+        font-size: 13px !important;
+        text-align: center !important;
+    }
+    .guides h2 {
+        text-align: center !important;
+        font-size: 22px !important;
+    }
+    .Ourteam h4 {
+        font-size: 18px !important; 
+    }
+    .Ourteams h2 {
+        margin-top: 0px !important; 
+    }
+    .tag p {
+        font-size: 14px !important;
+    }
+    .tag p {
+        font-size: 15px !important;
+    }
+}
